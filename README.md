@@ -1,16 +1,13 @@
-# project_praktikum
+# praktikum 1
 
-A new Flutter project.
+1. Praktikum text widget
+2. Praktikum image widget
+3. Praktikum kombinasi image dan text
 
-## Getting Started
+## tahapan kombinasi images dan text
+1. Menyiapkan Asset
+2. Membuat Widget Text
+3. Membuat Widget Images
+4.Menggabungkan di File Utama (Praktikum_comb.dart)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screenshot](assets/images/Screenshot%202025-09-01%20211654.png)
