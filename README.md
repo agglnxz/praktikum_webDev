@@ -5,9 +5,9 @@
 3. Praktikum kombinasi image dan text
 
 ## tahapan kombinasi images dan text
-1. Menyiapkan Asset
-2. Membuat Widget Text
-3. Membuat Widget Images
-4.Menggabungkan di File Utama (Praktikum_comb.dart)
+1. Membuat project terlebih dahulu jika belum membuat project
+2. membuat folder assets/images dan jangan lupa untuk mendaftarkan ke file pubspec.yaml
+3. Membuat Widget untuk text dan image, dengan file terpisah
+4. kemudian membuat file untuk menggabungkan text dan image dengan nama praktikum_comb.
 
 ![screenshot](assets/images/Screenshot%202025-09-01%20211654.png)
